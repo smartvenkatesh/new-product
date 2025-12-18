@@ -1,0 +1,24 @@
+.register {
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+.login {
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+.input {
+    padding: 5px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+
+}
+
+.input input {
+    padding: 10px;
+    margin: 5px;
+    width: 480px;
+}
